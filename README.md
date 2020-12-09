@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/srcole/burritos/master)
 
 # Burritos in san diego
 Analysis of burritos across San Diego.
